@@ -5,7 +5,13 @@
 📬 联系方式：
  <!--邮箱-->
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anjuxi.ME@outlook.com)  anjuxi.ME@outlook.com
+
+ <!--SIP电话-->
+[![SIP](https://img.shields.io/badge/-SIP%E7%94%B5%E8%AF%9D-4A90D9?style=flat-square&logo=phone&logoColor=white)](sip:anjuxi@sip.linphone.org)  `sip:anjuxi@sip.linphone.org`
+
+ <!--GitHub-->
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anjuxi)  https://github.com/anjuxi
+
  <!--领英-->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) 
- <!--SIP电话-->
-[![SIP](https://img.shields.io/badge/-SIP%E7%94%B5%E8%AF%9D-4A90D9?style=flat-square&logo=phone&logoColor=white)](sip:anjuxi@sip.linphone.org)  sip:anjuxi@sip.linphone.org
+
