@@ -18,6 +18,7 @@
 
 ##  🔭当前研究方向：
 • 量化投资;
+[![Research](https://img.shields.io/badge/量化投资-2E8B57?style=flat-square)](#)
 
 
 ## 📬 联系方式：
