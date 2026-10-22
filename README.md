@@ -13,11 +13,10 @@
 <!--Python-->
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 <!--C语言-->
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 
 
 ##  🔭当前研究方向：
-• 量化投资;
 [![Research](https://img.shields.io/badge/量化投资-2E8B57?style=flat-square)](#)
 
 
