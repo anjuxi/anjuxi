@@ -13,5 +13,5 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anjuxi)  https://github.com/anjuxi
 
  <!--领英-->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/弆悕-谙-9b0106354?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
