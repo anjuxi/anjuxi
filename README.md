@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuxi)
 
 
-## 🎓Title：
+## 🎓头衔：
 ![NLG](https://img.shields.io/badge/NLG-%E5%B7%A5%E7%A8%8B%E5%B8%88-1E5AA8?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-%E5%B7%A5%E7%A8%8B%E5%B8%88-5B3FA8?style=for-the-badge)
 ![Quant](https://img.shields.io/badge/%E9%87%8F%E5%8C%96-%E7%A0%94%E7%A9%B6%E5%91%98-1F7A4D?style=for-the-badge)
