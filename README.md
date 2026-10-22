@@ -1,5 +1,5 @@
 # 我是 谙弆悕博士（Ailan Anjuxi）！
-
+[![CSDN](https://img.shields.io/badge/CSDN-你的CSDN用户名-C3212D?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_67069922)
 
 ## 常用编程工具：
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuxi)
