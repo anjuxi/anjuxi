@@ -1,12 +1,12 @@
 # 我是 谙弆悕博士（Ailan Anjuxi）！
 
+
 ## 常用编程工具：
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuxi)
 
-![Static Badge](https://img.shields.io/badge/C)
 
 ## 🎓Title：
-**Ph.D.｜[在此填写头衔，如：量化研究员 / 独立研究者 / 工程师]**
+**[NLG工程师、LLM工程师、量化研究员]**
 
 
 ## 🛠️技术栈：
@@ -18,6 +18,7 @@
 
 ##  🔭当前研究方向：
 • 量化投资;
+
 
 ## 📬 联系方式：
  <!--邮箱-->
