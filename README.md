@@ -6,12 +6,13 @@
 
 
 ## 🎓Title：
-**[NLG工程师、LLM工程师、量化研究员]**
+**NLG工程师、LLM工程师、量化研究员**
 
 
 ## 🛠️技术栈：
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square)
 
 ##  🔭当前研究方向：
