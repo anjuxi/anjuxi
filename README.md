@@ -5,10 +5,11 @@
 
 ![Static Badge](https://img.shields.io/badge/C)
 
-## 🏆Title：
+## 🎓Title：
+**Ph.D.｜[在此填写头衔，如：量化研究员 / 独立研究者 / 工程师]**
 
 
-## 技术栈：
+## 🛠️技术栈：
 <!--Python-->
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 <!--C语言-->
