@@ -6,7 +6,9 @@
 
 
 ## 🎓Title：
-**NLG工程师、LLM工程师、量化研究员**
+![NLG](https://img.shields.io/badge/NLG-%E5%B7%A5%E7%A8%8B%E5%B8%88-4A90D9?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-%E5%B7%A5%E7%A8%8B%E5%B8%88-7B68EE?style=for-the-badge)
+![Quant](https://img.shields.io/badge/%E9%87%8F%E5%8C%96-%E7%A0%94%E7%A9%B6%E5%91%98-2E8B57?style=for-the-badge)
 
 
 ## 🛠️技术栈：
@@ -22,7 +24,6 @@
 ![NLP](https://img.shields.io/badge/NLP-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86-8A2BE2?style=flat-square)
 
 ##  🔭当前研究方向：
-[![Research](https://img.shields.io/badge/量化投资-2E8B57?style=flat-square)](#)
 ![Quantitative Investment](https://img.shields.io/badge/量化投资-Quantitative%20Investment-4A90D9?style=flat-square)
 
 
@@ -35,3 +36,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anjuxi)  https://github.com/anjuxi
  <!--领英-->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/弆悕-谙-9b0106354?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+
