@@ -6,10 +6,9 @@
 
 
 ## 🎓Title：
-![NLG](https://img.shields.io/badge/NLG-%E5%B7%A5%E7%A8%8B%E5%B8%88-4A90D9?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-%E5%B7%A5%E7%A8%8B%E5%B8%88-7B68EE?style=for-the-badge)
-![Quant](https://img.shields.io/badge/%E9%87%8F%E5%8C%96-%E7%A0%94%E7%A9%B6%E5%91%98-20B2AA?style=for-the-badge)
-
+![NLG](https://img.shields.io/badge/NLG-%E5%B7%A5%E7%A8%8B%E5%B8%88-1E5AA8?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-%E5%B7%A5%E7%A8%8B%E5%B8%88-5B3FA8?style=for-the-badge)
+![Quant](https://img.shields.io/badge/%E9%87%8F%E5%8C%96-%E7%A0%94%E7%A9%B6%E5%91%98-1F7A4D?style=for-the-badge)
 
 ## 🛠️技术栈：
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
