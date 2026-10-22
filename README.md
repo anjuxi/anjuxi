@@ -1,15 +1,22 @@
 # 我是 谙弆悕博士（Ailan Anjuxi）！
 
+## 常用编程工具：
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuxi)
 
 ![Static Badge](https://img.shields.io/badge/C)
 
+## 🏆Title：
 
-📬 联系方式：
+
+## 技术栈：
+
+##  🔭当前研究方向：
+
+## 📬 联系方式：
  <!--邮箱-->
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anjuxi.ME@outlook.com)  anjuxi.ME@outlook.com
 
- <!--SIP电话-->
+ <!--📞SIP电话-->
 [![SIP](https://img.shields.io/badge/-SIP%E7%94%B5%E8%AF%9D-4A90D9?style=flat-square&logo=phone&logoColor=white)](sip:anjuxi@sip.linphone.org)  `sip:anjuxi@sip.linphone.org`
 
  <!--GitHub-->
