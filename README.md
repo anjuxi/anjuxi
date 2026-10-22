@@ -7,7 +7,7 @@
 
 ## 🎓Title：
 ![NLG](https://img.shields.io/badge/NLG-%E5%B7%A5%E7%A8%8B%E5%B8%88-4A90D9?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-%E5%B7%A5%E7%A8%8B%E5%B8%88-7B68EE?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-%E5%B7%A5%E7%A8%8B%E5%B8%88-4A90D9?style=for-the-badge)
 ![Quant](https://img.shields.io/badge/%E9%87%8F%E5%8C%96-%E7%A0%94%E7%A9%B6%E5%91%98-2E8B57?style=for-the-badge)
 
 
