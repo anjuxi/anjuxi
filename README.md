@@ -1,6 +1,7 @@
 # 我是 谙弆悕博士（Ailan Anjuxi）！
 [![CSDN](https://img.shields.io/badge/CSDN-谙弆悕博士-C3212D?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_67069922)
 
+
 ## 常用编程工具：
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuxi)
 
@@ -9,6 +10,7 @@
 ![NLG](https://img.shields.io/badge/NLG-%E5%B7%A5%E7%A8%8B%E5%B8%88-1E5AA8?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-%E5%B7%A5%E7%A8%8B%E5%B8%88-5B3FA8?style=for-the-badge)
 ![Quant](https://img.shields.io/badge/%E9%87%8F%E5%8C%96-%E7%A0%94%E7%A9%B6%E5%91%98-1F7A4D?style=for-the-badge)
+
 
 ## 🛠️技术栈：
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
@@ -21,6 +23,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86-8A2BE2?style=flat-square)
+
 
 ##  🔭当前研究方向：
 ![Quantitative Investment](https://img.shields.io/badge/量化投资-Quantitative%20Investment-4A90D9?style=flat-square)
