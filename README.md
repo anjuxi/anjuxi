@@ -5,8 +5,9 @@
 
 
 ## 常用编程工具：
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuxi)
-
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjuxi&layout=compact&theme=radical)
+</div>
 
 ## 🎓头衔：
 ![NLG](https://img.shields.io/badge/NLG-%E5%B7%A5%E7%A8%8B%E5%B8%88-1E5AA8?style=for-the-badge)
