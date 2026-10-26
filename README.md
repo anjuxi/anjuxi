@@ -1,5 +1,5 @@
 # 我是 谙弆悕博士（Ailan Anjuxi）！
-> 个人偏好英文读法：Ailen Andrey `/ˈaɪlən ˈændri/`;
+> 个人偏好读法：Ailen Andrey `/ˈaɪlən ˈændri/`;
 
 [![CSDN](https://img.shields.io/badge/CSDN-谙弆悕博士-C3212D?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_67069922)
 
